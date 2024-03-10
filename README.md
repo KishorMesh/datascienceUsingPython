@@ -1,2 +1,2 @@
-# datascientusingPython
+# datascienceusingPython
 python assignment
